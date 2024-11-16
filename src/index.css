@@ -1,13 +1,58 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+:root {
+    --app-color: #901c1d;
+    --app-color2: #000000;
+    --app-color3: #ffffff;
+
+    --font: 'Quicksand', '-apple-system', sans-serif;
+
+    --text-font-size: 14px;
+    --text-font-size2: 12px;
+    --text-font-size3: 16px;
+    --header-font-size: 20px;
+
+    --soft-color1: lightgrey;
+    --soft-color2: #e9e7d3;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+    margin: 0;
+    padding: 0;
+    color: var(--app-color2);
+    box-sizing: border-box;
+    font-family: var(--font);
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('./fonts/Quicksand-Regular.ttf') format('truetype');
+}
+
+.App {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 410px) {
+    body {
+        zoom: 0.8;
+    }
+}
+
+@media (max-width: 300px) {
+    body {
+        zoom: 0.6;
+    }
+}
+
+@media (max-width: 200px) {
+    body {
+        zoom: 0.4;
+    }
+}
+
+@media (max-width: 150px) {
+    body {
+        zoom: 0.2;
+    }
 }
