@@ -347,7 +347,7 @@ export const teamMembers = [
         image: facultyone7,
         role: 'Faculty',
         name: 'MRS. Kelechi Emekalam',
-        more: 'Communications Expert',
+        more: 'Media & Communications Expert',
         isReversed: false,
         paragraph: 1,
         story: profile_info_7,

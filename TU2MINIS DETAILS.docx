@@ -1,0 +1,33 @@
+LINK TO CODE BASE
+
+https://github.com/mikey18/tu2minisglobal
+
+
+HOW TO SETUP PROFESSIONAL EMAIL
+
+Creating professional email addresses like `info@tu2minisglobal.org` or `careers@tu2minisglobal.org` using Google involves using Google Workspace (formerly G Suite). Here's how you can set it up:
+
+Steps to Create Professional Emails with Google Workspace:
+
+1. Sign Up for Google Workspace  
+Go to Google Workspace. Click Get Started and follow the prompts to create an account.  
+
+2. Verify Your Domain  
+During the setup, you’ll be asked to verify ownership of your domain. This involves adding a TXT or CNAME record to your domain’s DNS settings. The Google Workspace setup wizard will guide you through this step.  
+
+3. Create Email Addresses  
+After verifying the domain, you can create email addresses through the Google Admin Console:  
+- Log in to the Google Admin Console.  
+- Navigate to Users.  
+- Click Add User and provide details for each email address you want to create (e.g., "info" or "careers").  
+
+4. Access Emails  
+Once created, you can access emails via Gmail (using your new professional email address).  
+
+5. Set Up Billing  
+Google Workspace is a paid service, with plans starting at $6/user/month for the basic plan. Make sure to set up billing during the registration process.  
+
+Additional Features:  
+
+You can create aliases like `support@tu2minisglobal.org` for free.  
+ 
